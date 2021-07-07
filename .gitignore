@@ -1,0 +1,9 @@
+examples/examples
+.idea/
+*.so
+*.a
+[B|b]uild/
+tmp/
+*.exe
+go.sum
+vendor/
